@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1701723472 source:c:\users\misan\onedrive\desktop\msp codes\ndksmf\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+
